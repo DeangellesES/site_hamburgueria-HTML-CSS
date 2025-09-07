@@ -7,6 +7,6 @@
 
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
-  <li><b>HTML5</b></li>
-  <li><b>CSS3</b> - Responsivo para mobile e tablet</li>
+  <li><b>HTML</b></li>
+  <li><b>CSS</b> - Responsivo para mobile e tablet</li>
 </ul>

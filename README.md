@@ -1,3 +1,5 @@
+<h1>Projeto: Site de uma Hamburgueria</h1>
+
 <h2>📌 Sobre o Projeto</h2>
 <p>Site Fron-End de uma Hamburgueria, site desenvolvido com o intuito de praticar.</p>
 
@@ -5,6 +7,6 @@
 
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
-  <li><b>HTML</b></li>
-  <li><b>CSS</b> - Responsivo para mobile e tablet</li>
+  <li><b>HTML5</b></li>
+  <li><b>CSS3</b> - Responsivo para mobile e tablet</li>
 </ul>
